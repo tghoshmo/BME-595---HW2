@@ -21,7 +21,7 @@
   * Weights - 
     * layer[0] : 10, -20
     
- * **XOR**
+* **XOR**
   * No. of nodes in input layer = 2
   * No. of hidden layers = 1
   * No. of nodes in hidden layer = 2
