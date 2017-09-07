@@ -1,6 +1,7 @@
-# BME-595
+# BME 595
 ## Homework-2
 ### Tarutal Ghosh Mondal
+####
 
 * **AND**
   * No. of nodes in input layer = 2
